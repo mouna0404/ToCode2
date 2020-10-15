@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Club clubId="ACM">
+   <Member id="_12345" clubs="ACM">
+   <Name>
+      <FirstName>WEB</FirstName>
+      <MiddleInitial>H</MiddleInitial>
+      <LastName>DO</LastName>
+   </Name>
+   </Member>
+</Club>
