@@ -4,11 +4,11 @@
    <auteur nom="ahmadi" prenom="ahmed" />
    <section titre="section1">
         <chapitre titre="chapitre1">
-            <paragraphe>para1 </paragraphe>
-            <paragraphe>para2 </paragraphe>
+            <paragraphe>para1 xml <element id="10">&gt;</element> </paragraphe>
+            <paragraphe>para2  xml <element id="10"><![CDATA[> ]]></element> </paragraphe>
         </chapitre>
         <chapitre titre="chapitre2">
-            <paragraphe> para1</paragraphe>
+            <paragraphe> para1 </paragraphe>
             <paragraphe>para2 </paragraphe> 
         </chapitre>
    </section>
