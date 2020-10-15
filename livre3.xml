@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+   <titre> livre Xxxx</titre>
+   <auteur>
+      <nom>  hamdi </nom>
+      <prenom> ali </prenom>
+   </auteur>
+   <auteur>
+       <nom>  ahmadi </nom>
+      <prenom>  ahmed </prenom>
+   </auteur>
+   <section>
+        <titre>section1</titre>
+        <chapitre>
+            <titre>chapitre1</titre>
+            <paragraphe>para1 </paragraphe>
+            <paragraphe>para2 </paragraphe>
+        </chapitre>
+        <chapitre>
+            <titre>chapitre2</titre>
+            <paragraphe> para1</paragraphe>
+            <paragraphe>para2 </paragraphe> 
+        </chapitre>
+   </section>
+   <section>
+        <titre>section2</titre>
+        <chapitre> 
+            <titre>chapitre1</titre>
+            <paragraphe> para1</paragraphe>
+            <paragraphe>para2 </paragraphe>
+        </chapitre>
+        <chapitre>
+            <titre>chapitre2</titre>
+            <paragraphe> </paragraphe>
+            <paragraphe> </paragraphe> 
+        </chapitre>
+   </section>
+
+</livre>
