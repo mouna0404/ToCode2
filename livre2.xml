@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre titre="livre Xxxx">
+   <auteur nom="hamdi" prenom="ali" />
+   <auteur nom="ahmadi" prenom="ahmed" />
+   <section titre="section1">
+        <chapitre titre="chapitre1">
+            <paragraphe>para1 </paragraphe>
+            <paragraphe>para2 </paragraphe>
+        </chapitre>
+        <chapitre titre="chapitre2">
+            <paragraphe> para1</paragraphe>
+            <paragraphe>para2 </paragraphe> 
+        </chapitre>
+   </section>
+   <section titre="section2">
+        <chapitre titre="chapitre1"> 
+            <paragraphe> para1</paragraphe>
+            <paragraphe>para2 </paragraphe>
+        </chapitre>
+        <chapitre titre="chapitre2">
+            <paragraphe> </paragraphe>
+            <paragraphe> </paragraphe> 
+        </chapitre>
+   </section>
+
+</livre>
