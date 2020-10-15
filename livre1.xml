@@ -2,12 +2,12 @@
 <livre>
    <titre> livre Xxxx</titre>
    <auteur>
-      <nom> <titre> hamdi</titre> </nom>
-      <prenom> <titre>ali</titre> </prenom>
+      <nom>  hamdi </nom>
+      <prenom> ali </prenom>
    </auteur>
    <auteur>
-       <nom> <titre> ahmadi</titre>  </nom>
-      <prenom> <titre> ahmed</titre> </prenom>
+       <nom>  ahmadi </nom>
+      <prenom>  ahmed </prenom>
    </auteur>
    <section>
         <titre>section1</titre>
