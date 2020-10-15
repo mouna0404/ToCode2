@@ -23,17 +23,17 @@
         </p:chapitre>
    </p:section>
    <p2:section>
-        <p:titre>section2</p:titre>
-        <p:chapitre> 
-            <p:titre>chapitre1</p:titre>
-            <p:paragraphe> para1</p:paragraphe>
-            <p:paragraphe>para2 </p:paragraphe>
-        </p:chapitre>
-        <p:chapitre>
-            <p:titre>chapitre2</p:titre>
-            <p:paragraphe> </p:paragraphe>
+        <p2:titre>section2</p2:titre>
+        <p2:chapitre> 
+            <p2:titre>chapitre1</p2:titre>
+            <p2:paragraphe> para1</p2:paragraphe>
+            <p2:paragraphe>para2 </p2:paragraphe>
+        </p2:chapitre>
+        <p2:chapitre>
+            <p2:titre>chapitre2</p2:titre>
+            <p2:paragraphe> </p2:paragraphe>
             <paragraphe xmlns=""> </paragraphe> 
-        </p:chapitre>
+        </p2:chapitre>
    </p2:section>
 
 </p:livre>
