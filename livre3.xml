@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<livre>
-   <titre> livre Xxxx</titre>
-   <auteur>
-      <nom>  hamdi </nom>
-      <prenom> ali </prenom>
-   </auteur>
-   <auteur>
-       <nom>  ahmadi </nom>
-      <prenom>  ahmed </prenom>
-   </auteur>
-   <section>
-        <titre>section1</titre>
-        <chapitre>
-            <titre>chapitre1</titre>
-            <paragraphe>para1 </paragraphe>
-            <paragraphe>para2 </paragraphe>
-        </chapitre>
-        <chapitre>
-            <titre>chapitre2</titre>
-            <paragraphe> para1</paragraphe>
-            <paragraphe>para2 </paragraphe> 
-        </chapitre>
-   </section>
-   <section>
-        <titre>section2</titre>
-        <chapitre> 
-            <titre>chapitre1</titre>
-            <paragraphe> para1</paragraphe>
-            <paragraphe>para2 </paragraphe>
-        </chapitre>
-        <chapitre>
-            <titre>chapitre2</titre>
-            <paragraphe> </paragraphe>
-            <paragraphe> </paragraphe> 
-        </chapitre>
-   </section>
+<p:livre  xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+   <p:titre> livre Xxxx</p:titre>
+   <p:auteur>
+      <p:nom>  hamdi </p:nom>
+      <p:prenom> ali </p:prenom>
+   </p:auteur>
+   <p:auteur>
+       <p:nom>  ahmadi </p:nom>
+      <p:prenom>  ahmed </p:prenom>
+   </p:auteur>
+   <p:section>
+        <p:titre>section1</p:titre>
+        <p:chapitre>
+            <p:titre>chapitre1</p:titre>
+            <p:paragraphe>para1 </p:paragraphe>
+            <p:paragraphe>para2 </p:paragraphe>
+        </p:chapitre>
+        <p:chapitre>
+            <p:titre>chapitre2</p:titre>
+            <p:paragraphe> para1</p:paragraphe>
+            <p:paragraphe>para2 </p:paragraphe> 
+        </p:chapitre>
+   </p:section>
+   <p2:section>
+        <p:titre>section2</p:titre>
+        <p:chapitre> 
+            <p:titre>chapitre1</p:titre>
+            <p:paragraphe> para1</p:paragraphe>
+            <p:paragraphe>para2 </p:paragraphe>
+        </p:chapitre>
+        <p:chapitre>
+            <p:titre>chapitre2</p:titre>
+            <p:paragraphe> </p:paragraphe>
+            <paragraphe xmlns=""> </paragraphe> 
+        </p:chapitre>
+   </p2:section>
 
-</livre>
+</p:livre>
